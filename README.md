@@ -140,14 +140,6 @@ pip install pandas openpyxl
 - Mac/Linux'ta: `r"/Kullanıcı/Klasör/*.xlsx"` format kullanın
 - Klasör yolunun doğru olduğundan emin olun
 
-## Geliştirme Fikirleri 💡
-
-- [ ] Komut satırı argümanları desteği ekle
-- [ ] GUI arayüzü oluştur
-- [ ] CSV ve ODS formatı desteği ekle
-- [ ] Sütun eşleştirme özelliği ekle
-- [ ] Hata raporlama geliştir
-
 ## Lisans 📄
 
 MIT License - [LICENSE](LICENSE) dosyasına bakın
@@ -165,7 +157,6 @@ Katkılarınız hoşa gider! Lütfen:
 ## İletişim 📧
 
 - **GitHub**: [@merenekiz](https://github.com/merenekiz)
-- Sorular veya öneriler için Issues açın
 
 ## Destek 💬
 
